@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/ChatServer.cpp.o -c /home/myz/MyWork/Chat/src/server/ChatServer.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/ChatServer.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/ChatServer.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/ChatService.cpp.o -c /home/myz/MyWork/Chat/src/server/ChatService.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/ChatService.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/ChatService.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/myz/MyWork/Chat/src/server/main.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/main.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/main.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/myz/MyWork/Chat/src/server/db/db.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/db/db.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/db/db.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/UserModel.cpp.o -c /home/myz/MyWork/Chat/src/server/model/UserModel.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/model/UserModel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/UserModel.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/myz/MyWork/Chat/src/server/model/friendmodel.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/model/friendmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/myz/MyWork/Chat/src/server/model/groupmodel.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/model/groupmodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o -c /home/myz/MyWork/Chat/src/server/model/offlinemessagemodel.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/model/offlinemessagemodel.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/model/offlinemessagemodel.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/server",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/myz/MyWork/Chat/src/server/redis/redis.cpp",
+  "file": "/home/myz/MyWork/Chat/src/server/redis/redis.cpp",
+  "output": "src/server/CMakeFiles/ChatServer.dir/redis/redis.cpp.o"
+},
+{
+  "directory": "/home/myz/MyWork/Chat/build/src/client",
+  "command": "/usr/bin/g++  -I/home/myz/MyWork/Chat/include -I/home/myz/MyWork/Chat/include/server -I/home/myz/MyWork/Chat/include/client -I/home/myz/MyWork/Chat/include/server/db -I/home/myz/MyWork/Chat/include/server/model -I/home/myz/MyWork/Chat/include/server/redis -I/home/myz/MyWork/Chat/thirdparty -g -g -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/myz/MyWork/Chat/src/client/main.cpp",
+  "file": "/home/myz/MyWork/Chat/src/client/main.cpp",
+  "output": "src/client/CMakeFiles/ChatClient.dir/main.cpp.o"
+}
+]

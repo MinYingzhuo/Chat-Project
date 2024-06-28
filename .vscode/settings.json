@@ -1,0 +1,16 @@
+{
+  "files.associations": {
+    "iostream": "cpp",
+    "random": "cpp",
+    "vector": "cpp",
+    "thread": "cpp",
+    "bitset": "cpp",
+    "optional": "cpp",
+    "functional": "cpp",
+    "istream": "cpp",
+    "chrono": "cpp",
+    "ostream": "cpp"
+  },
+  "makefile.makefilePath": "./",
+  "cmake.configureOnOpen": true
+}
